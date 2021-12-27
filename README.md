@@ -2,6 +2,10 @@
 
 A Full-Stack Web Developer based in Kuningan, :indonesia:.
 
+<!-- Linkedin Profile -->
+
+[![Linkedin](https://img.shields.io/badge/-Ferdi%20Ferdiana-blue?style=flat-square&labelColor=gray&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ferdianfh)](https://www.linkedin.com/in/ferdianfh)
+
 - 🌱 I’m currently learning RESTful API with ExpressJS
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm actually a cat :smiley_cat:
