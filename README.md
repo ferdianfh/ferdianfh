@@ -6,6 +6,10 @@ A Full-Stack Web Developer based in Kuningan, :indonesia:.
 
 [![Linkedin](https://img.shields.io/badge/-Ferdi%20Ferdiana-blue?style=flat-square&labelColor=gray&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ferdianfh)](https://www.linkedin.com/in/ferdianfh)
 
+<!-- Instagram account -->
+
+[![Instagram](https://img.shields.io/badge/-@ferdifh_-orange?style=flat-square&labelColor=gray&logo=Instagram&logoColor=white&link=https://www.instagram.com/ferdifh_)](https://www.instagram.com/ferdifh_)
+
 - 🌱 I’m currently learning RESTful API with ExpressJS
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm actually a cat :smiley_cat:
