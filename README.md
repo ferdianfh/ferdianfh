@@ -15,19 +15,13 @@ A Full-Stack Web Developer based in Kuningan, :indonesia:.
 Section below created with [Wakatime](https://wakatime.com/):
 
 <!--START_SECTION:waka-->
-
-**I Mostly Code in JavaScript**
-
 ```text
-JavaScript   6 hrs 15 mins   █████████████████████░░░░   83.81 %
-SQL          45 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
-Bash         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
-JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+JavaScript   6 hrs 15 mins   █████████████████████░░░░   83.81 % 
+SQL          45 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+Bash         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 ```
-
-Last Updated on Monday, 27/12/2021
-
 <!--END_SECTION:waka-->
 
 <!--
