@@ -14,6 +14,7 @@ A Full-Stack Web Developer based in Kuningan, :indonesia:.
 
 Section below created with [Wakatime](https://wakatime.com/):
 
+**I Mostly code in JavaScript**
 <!--START_SECTION:waka-->
 ```text
 JavaScript   9 hrs 21 mins   ██████████████████▓░░░░░░   74.11 % 
@@ -24,6 +25,7 @@ JSON         9 mins          ▒░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+Last Updated on Tuesday, 28/12/2021
 <!--
 **ferdianfh/ferdianfh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
