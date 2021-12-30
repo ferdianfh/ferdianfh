@@ -4,7 +4,7 @@ A Full-Stack Web Developer based in Kuningan, :indonesia:.
 
 <!-- Visit My Linkedin Profile -->
 
-[![Linkedin](https://img.shields.io/badge/-Ferdi%20Ferdiana-blue?style=flat-square&labelColor=grey&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ferdianfh)](https://www.linkedin.com/in/ferdianfh)
+[![Linkedin](https://img.shields.io/badge/-Ferdi%20Ferdiana-blue?style=flat-square&labelColor=grey&logo=Linkedin&logoColor=silver&link=https://www.linkedin.com/in/ferdianfh)](https://www.linkedin.com/in/ferdianfh)
 [![Instagram](https://img.shields.io/badge/-@ferdifh_-purple?style=flat-square&labelColor=gray&logo=Instagram&logoColor=white&link=https://www.instagram.com/ferdifh_)](https://www.instagram.com/ferdifh_)
 [![Telegram](https://img.shields.io/badge/-ferdifh-informational?style=flat-square&labelColor=gray&logo=telegram&logoColor=white&link=https://t.me/ferdifh)](https://t.me/ferdifh)
 
