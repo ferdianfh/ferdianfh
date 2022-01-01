@@ -25,7 +25,7 @@ CSS          46 mins         ▓░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-Last Updated on Friday, 31/12/2021
+Last Updated on Saturday, 01/01/2022
 <!--
 **ferdianfh/ferdianfh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
