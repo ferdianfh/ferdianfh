@@ -17,11 +17,11 @@ Section below created with [Wakatime](https://wakatime.com/):
 **I Mostly code in JavaScript**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   14 hrs 58 mins  █████████████░░░░░░░░░░░░   52.14 % 
-HTML         10 hrs 19 mins  █████████░░░░░░░░░░░░░░░░   35.94 % 
-CSS          2 hrs 53 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-Markdown     22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-JSON         9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+JavaScript   12 hrs 15 mins  ███████████▓░░░░░░░░░░░░░   47.08 % 
+HTML         10 hrs 33 mins  ██████████░░░░░░░░░░░░░░░   40.54 % 
+CSS          2 hrs 35 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+Markdown     22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+JSON         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 ```
 <!--END_SECTION:waka-->
 
