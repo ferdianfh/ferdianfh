@@ -8,7 +8,7 @@ A Full-Stack Web Developer based in Kuningan, West Java, :indonesia:.
 [![Instagram](https://img.shields.io/badge/-@ferdifh_-purple?style=flat-square&labelColor=gray&logo=Instagram&logoColor=white&link=https://www.instagram.com/ferdifh_)](https://www.instagram.com/ferdifh_)
 [![Telegram](https://img.shields.io/badge/-ferdifh-informational?style=flat-square&labelColor=gray&logo=telegram&logoColor=white&link=https://t.me/ferdifh)](https://t.me/ferdifh)
 
-- 🌱 I’m currently learning ReactJS 🚀
+- 🌱 I’m currently learning Unit Testing with Mocha and Chai 🚀
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm actually a cat :smiley_cat:
 
