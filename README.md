@@ -8,7 +8,7 @@ A Full-Stack Web Developer based in Kuningan, West Java, :indonesia:.
 [![Instagram](https://img.shields.io/badge/-@ferdifh_-purple?style=flat-square&labelColor=gray&logo=Instagram&logoColor=white&link=https://www.instagram.com/ferdifh_)](https://www.instagram.com/ferdifh_)
 [![Telegram](https://img.shields.io/badge/-ferdifh-informational?style=flat-square&labelColor=gray&logo=telegram&logoColor=white&link=https://t.me/ferdifh)](https://t.me/ferdifh)
 
-- 🌱 I’m currently learning Unit Testing with Mocha and Chai 🚀
+- 🌱 I’m currently learning Redux 🚀
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm actually a cat :smiley_cat:
 
@@ -28,7 +28,7 @@ HTML         5 mins          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-Last Updated on Friday, 11/03/2022
+Last Updated on Saturday, 12/03/2022
 <!--
 **ferdianfh/ferdianfh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
