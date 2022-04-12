@@ -28,7 +28,7 @@ Bash         5 mins          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-Last Updated on Monday, 11/04/2022
+Last Updated on Tuesday, 12/04/2022
 <!--
 **ferdianfh/ferdianfh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
