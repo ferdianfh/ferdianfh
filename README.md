@@ -18,11 +18,11 @@ Section below created with [Wakatime](https://wakatime.com/):
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   6 hrs 27 mins   ██████████▓░░░░░░░░░░░░░░   42.71 %
-JSON         3 hrs 11 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.07 %
-TypeScript   2 hrs 53 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.07 %
-CSS          1 hr 18 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
-Other        44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
+JavaScript   8 hrs 10 mins   ███████████▓░░░░░░░░░░░░░   47.11 %
+JSON         3 hrs 23 mins   █████░░░░░░░░░░░░░░░░░░░░   19.55 %
+TypeScript   2 hrs 53 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.64 %
+CSS          1 hr 19 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
+Other        58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
 ```
 
 <!--END_SECTION:waka-->
