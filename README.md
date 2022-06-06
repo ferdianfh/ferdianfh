@@ -1,6 +1,6 @@
 ### Hello, I'm Ferdi! 😄
 
-A Full-Stack Web Developer based in Kuningan, West Java, :indonesia:.
+A Front-End Web Developer based in Kuningan, West Java, :indonesia:.
 
 <!-- Visit My Linkedin Profile -->
 
