@@ -18,9 +18,9 @@ Section below created with [Wakatime](https://wakatime.com/):
 <!--START_SECTION:waka-->
 
 ```text
-CSS          3 hrs 19 mins   █████████████▒░░░░░░░░░░░   53.51 %
-HTML         2 hrs 40 mins   ██████████▓░░░░░░░░░░░░░░   43.07 %
-Markdown     12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+HTML         1 hr 34 mins    ███████████████░░░░░░░░░░   60.32 %
+CSS          55 mins         ████████▓░░░░░░░░░░░░░░░░   35.32 %
+Markdown     6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
 JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
