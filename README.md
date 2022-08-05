@@ -18,8 +18,7 @@ Section below created with [Wakatime](https://wakatime.com/):
 <!--START_SECTION:waka-->
 
 ```text
-HTML   46 mins         ████████████████▒░░░░░░░░   64.90 %
-CSS    25 mins         ████████▓░░░░░░░░░░░░░░░░   35.10 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
