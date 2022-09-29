@@ -14,7 +14,7 @@ A Front-End Web Developer based in Kuningan, West Java, :indonesia:.
 
 Section below created with [Wakatime](https://wakatime.com/):
 
-**I Mostly code in JavaScript**
+<!--**I Mostly code in JavaScript**-->
 <!--START_SECTION:waka-->
 
 ```text
@@ -23,7 +23,7 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-Last Updated on Monday, 26/09/2022
+Last Updated on Thursday, 29/09/2022
 <!--
 **ferdianfh/ferdianfh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
